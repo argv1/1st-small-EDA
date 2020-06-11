@@ -9,6 +9,4 @@ as well as modeling data using linear regression.
 - slides/King_County_EDA.pptx is the powerpoint pptx
 - slides/King_County_EDA.pdf is the  pdf version of the presentation
 
-
-Goal of this mini project is so run the data science lifecycle,
-finding predictors for house prices.
+Goal of this mini project is so run the data science lifecycle, finding predictors for house prices.
