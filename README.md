@@ -7,7 +7,7 @@ as well as modeling data using linear regression.
 - King_County_House_prices_dataset.csv contain the data
 - EDA.ipynb is the juypter notebook with all anaysis
 - slides/King_County_EDA.pptx is the powerpoint pptx
-- slides/King_County_EDA.pptx is the  pdf version of the presentation
+- slides/King_County_EDA.pdf is the  pdf version of the presentation
 
 
 Goal of this mini project is so run the data science lifecycle,
