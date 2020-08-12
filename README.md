@@ -63,7 +63,7 @@ This code is licensed under the [GNU General Public License v3.0](https://choose
 For more details, please take a look at the [LICENSE file](https://github.com/argv1/goodXtausch/blob/master/LICENSE).
 
 
-## outlook
+## Outlook
 To improve the prediction quality the following points could be done:
 - The use of other regression models 
 - Enrichment with external data
