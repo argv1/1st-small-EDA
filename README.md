@@ -1,12 +1,64 @@
-# 1st Data_Analysis Project
-This project is centered around exploratory data 
-analysis (EDA) techniques and statistical analysis, 
-as well as modeling data using linear regression.
+![logo](https://github.com/argv1/1st-small-EDA/images/map.jpg)
 
-- The EDA-Project.pdf contain all information concerning the tasks of the project.
-- King_County_House_prices_dataset.csv contain the data
-- EDA.ipynb is the juypter notebook with all anaysis
-- slides/King_County_EDA.pptx is the powerpoint pptx
-- slides/King_County_EDA.pdf is the  pdf version of the presentation
+## 1st-small-EDA: Real Estate King's County
+======================
 
-Goal of this mini project is so run the data science lifecycle, finding predictors for house prices.
+Running the Data Science Lifecycle by analysing real estate sells in the King County area
+
+## Data Science Lifecycle
+
+- 1 Business Understanding
+ - What data do I reveived?
+ - What could be achieved with this data?
+
+- 2 Data Mining
+ - Data set already provided
+ - Column explanations not for every column
+   used [King County glosary](https://www.kingcounty.gov/depts/records-licensing/archives/research-guides/glossary.aspx)
+ 
+- 3 Data Cleaning
+ - Reformating variables
+ - Dropping columns and rows due to lack of information or too many missing
+ 
+- 4 Data Exploration
+ - Spreading measures
+ - Histograms
+ - Correlation analyis
+ 
+- 5 Feature Engineering
+ - Year & Quarter the house was sold
+ - Location by latitude * longitude
+ - SQ difference between sq living and lot
+ - Logarithm of price
+ - Time between year build and sold
+ 
+- 6 Predictive Modeling
+ - Linear Regression
+ 
+- 7 Data Visualization
+ - Relation between price and grading
+ - Location impact on price
+
+
+## Python Modules used:
+Pandas / NumPy / Matplotlib / Seaborn / sklearn
+
+
+## Files and Folders
+
+- data/King_County_House_prices_dataset.csv provided data set
+- data/column_names.md provided column explanations
+- EDA.ipynb : jupyter notebook with Exploratory Data Analysis (EDA), python code, visualizations, further documentation and business case
+- slides/King_County_EDA.pdf : slide deck visualising the findings (10min.)
+
+
+## License
+
+This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). 
+For more details, please take a look at the [LICENSE file](https://github.com/argv1/goodXtausch/blob/master/LICENSE).
+
+
+## outlook
+To improve the prediction quality the following points could be done:
+- The use of other regression models 
+- Enrichment with external data
