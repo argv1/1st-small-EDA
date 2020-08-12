@@ -1,4 +1,4 @@
-![logo](https://github.com/argv1/1st-small-EDA/images/map.jpg)
+![logo](https://github.com/argv1/1st-small-EDA/blob/master/images/map.jpg)
 
 ## 1st-small-EDA: Real Estate King's County
 ======================
