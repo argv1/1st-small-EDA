@@ -8,36 +8,41 @@ Running the Data Science Lifecycle by analysing real estate sells in the King Co
 ## Data Science Lifecycle
 
 - 1 Business Understanding
--- What data do I reveived?
--- What could be achieved with this data?
+    - What data do I reveived?
+    - What could be achieved with this data?
 
 - 2 Data Mining
- - Data set already provided
- - Column explanations not for every column
-   used [King County glosary](https://www.kingcounty.gov/depts/records-licensing/archives/research-guides/glossary.aspx)
+    - Data set already provided
+    - Column explanations not for every column
+	  used [King County glosary](https://www.kingcounty.gov/depts/records-licensing/archives/research-guides/glossary.aspx)
  
 - 3 Data Cleaning
- - Reformating variables
- - Dropping columns and rows due to lack of information or too many missing
+    - Reformating variables
+    - Dropping columns and rows due to lack of information or too many missing
  
 - 4 Data Exploration
- - Spreading measures
- - Histograms
- - Correlation analyis
+    - Spreading measures
+    - Histograms
+    - Correlation analyis
  
 - 5 Feature Engineering
- - Year & Quarter the house was sold
- - Location by latitude * longitude
- - SQ difference between sq living and lot
- - Logarithm of price
- - Time between year build and sold
+    - Year & Quarter the house was sold
+    - Location by latitude * longitude
+    - SQ difference between sq living and lot
+    - Logarithm of price
+    - Time between year build and sold
  
 - 6 Predictive Modeling
- - Linear Regression
+    - Linear Regression
  
 - 7 Data Visualization
- - Relation between price and grading
- - Location impact on price
+    - Relation between price and grading
+    - Location impact on price
+
+## Summary:
+- Cleaning is time consuming
+- Lake View is very expensive
+- There is a chance to buy a bargain.
 
 
 ## Python Modules used:
