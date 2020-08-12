@@ -40,12 +40,21 @@ Running the Data Science Lifecycle by analysing real estate sells in the King Co
     - Location impact on price
 
 ## Summary:
+
 - Cleaning is time consuming
 - Lake View is very expensive
 - There is a chance to buy a bargain.
 
 
+## Outlook
+
+To improve the prediction quality the following points could be done:
+- The use of other regression models 
+- Enrichment with external data
+
+
 ## Python Modules used:
+
 Pandas / NumPy / Matplotlib / Seaborn / sklearn
 
 
@@ -62,8 +71,3 @@ Pandas / NumPy / Matplotlib / Seaborn / sklearn
 This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). 
 For more details, please take a look at the [LICENSE file](https://github.com/argv1/goodXtausch/blob/master/LICENSE).
 
-
-## Outlook
-To improve the prediction quality the following points could be done:
-- The use of other regression models 
-- Enrichment with external data
