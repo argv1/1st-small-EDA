@@ -8,8 +8,8 @@ Running the Data Science Lifecycle by analysing real estate sells in the King Co
 ## Data Science Lifecycle
 
 - 1 Business Understanding
- - What data do I reveived?
- - What could be achieved with this data?
+ * What data do I reveived?
+ * What could be achieved with this data?
 
 - 2 Data Mining
  - Data set already provided
