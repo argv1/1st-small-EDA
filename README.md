@@ -68,5 +68,5 @@ Pandas / NumPy / Matplotlib / Seaborn / sklearn
 ## License
 
 This code is licensed under the [GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/). 
-For more details, please take a look at the [LICENSE file](https://github.com/argv1/goodXtausch/blob/master/LICENSE).
+For more details, please take a look at the [LICENSE file](https://github.com/argv1/1st-small-EDA//blob/master/LICENSE).
 
